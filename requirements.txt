@@ -1,0 +1,8 @@
+youtube_dl
+openai-whisper
+transformers
+langchain_core
+pytubefix
+langchain_community
+langchain
+langchain_openai
